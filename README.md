@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
+###Deployed on Netlify
+https://elated-galileo-91f918.netlify.app/
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
